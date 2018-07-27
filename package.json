@@ -1,0 +1,27 @@
+{
+  "name": "node-test-mocha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.0.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Busisile-Zilwa2601/node-test-mocha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Busisile-Zilwa2601/node-test-mocha/issues"
+  },
+  "homepage": "https://github.com/Busisile-Zilwa2601/node-test-mocha#readme",
+  "description": ""
+}
